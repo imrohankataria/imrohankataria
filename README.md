@@ -14,9 +14,9 @@
   <img align="left" alt="Rohan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="480" height="360"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" height="260"/>
 
 ### I am Rohan Kataira
 - AutoML & Data Science enthusiast.
 - An Analytics Professional.
-- Writing my interests at <a href="https://rohankataria.com">rohankataria.com</a>
+- Writing about my interests and findings at <a href="https://rohankataria.com">rohankataria.com</a>
