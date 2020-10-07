@@ -17,3 +17,4 @@
 - AutoML & Data Science enthusiast.
 - An Analytics Professional.
 - Writing about my interests and findings at <a href="https://rohankataria.com">rohankataria.com</a>
+- Publishing analytical web-applications at <a href="https://apps.rohankataria.com">apps.rohankataria.com</a>
