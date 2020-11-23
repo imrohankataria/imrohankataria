@@ -15,5 +15,5 @@
 - An Analytics Professional.
 - Writing about my interests and findings at <a href="https://rohankataria.com">rohankataria.com</a>
 - Publishing RShiny web-applications at <a href="https://apps.rohankataria.com">apps.rohankataria.com</a>
-1. <a href="https://apps.rohankataria.com/Stock_Analyzer">Stock Analyzer Shiny Application</a>
-2. <a href="https://salesforecast.shinyapps.io/sales_dashboard_forecast_app/">Sales Demand Forecast Shiny Application</a>
+  1. <a href="https://apps.rohankataria.com/Stock_Analyzer">Stock Analyzer Shiny Application</a>
+  2. <a href="https://salesforecast.shinyapps.io/sales_dashboard_forecast_app/">Sales Demand Forecast Shiny Application</a>
